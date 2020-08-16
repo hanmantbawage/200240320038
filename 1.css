@@ -1,0 +1,58 @@
+html,body{
+    margin: 0;
+}
+
+.nav1{
+    display: flex;
+    
+    background-color: aqua;
+    height: 65px;
+
+}
+.nav2{
+    display: flex;
+    flex: 8;
+    justify-content: start;
+    align-items: center;
+}
+.nav3{
+    display: flex;
+    flex: 4;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+}
+.body1{
+    display: flex;
+    height: 200px;
+    
+}
+.body2{
+    display: flex;
+    flex: 4;
+}
+.body3{
+    display: flex;
+    flex: 6;
+    background-color: rgb(221, 147, 147);
+    justify-content: center;
+    align-items: center;
+}
+.body4{
+    display: flex;
+    flex: 4;
+}
+.body5{
+    display: flex;
+    flex: 6;
+    background-color: rgb(172, 216, 131);
+    justify-content: center;
+    align-items: center;
+}
+.body6{
+    display: flex;
+    flex: 6;
+    background-color: rgb(171, 131, 216);
+    justify-content: center;
+    align-items: center;
+}
